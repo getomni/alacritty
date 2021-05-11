@@ -16,6 +16,6 @@ Download using the [GitHub .zip download](https://github.com/getomni/alacritty/a
 2. Edit the Alacritty config file by adding:
 ```yaml
 import:
-  - ./omni.yml
+  - /omni.yml
 ```
 3. Alacritty reloads the config automagically
